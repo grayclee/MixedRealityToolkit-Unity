@@ -1,75 +1,63 @@
 fileFormatVersion: 2
-guid: e0cb1a252e30f954eae1e61845f42c7a
+guid: c4867650c78612948ac0c914c70aff76
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Cube_Template
-    100002: //RootNode
-    100004: joint10
-    100006: joint15
-    100008: joint20
-    100010: joint5
-    100012: Main
-    100014: Mesh
-    100016: Midel_JNT1
-    100018: Midel_JNT2
-    100020: Midel_JNT3
-    100022: Pinky_JNT1
-    100024: Pinky_JNT2
-    100026: Pinky_JNT3
-    100028: Point_JNT1
-    100030: Point_JNT2
-    100032: Point_JNT3
-    100034: Ring_JNT1
-    100036: Ring_JNT2
-    100038: Ring_JNT3
-    100040: Thumb_JNT1
-    100042: Thumb_JNT2
-    100044: Thumb_JNT3
-    100046: Wrist1
-    400000: Cube_Template
-    400002: //RootNode
-    400004: joint10
-    400006: joint15
-    400008: joint20
-    400010: joint5
-    400012: Main
-    400014: Mesh
-    400016: Midel_JNT1
-    400018: Midel_JNT2
-    400020: Midel_JNT3
-    400022: Pinky_JNT1
-    400024: Pinky_JNT2
-    400026: Pinky_JNT3
-    400028: Point_JNT1
-    400030: Point_JNT2
-    400032: Point_JNT3
-    400034: Ring_JNT1
-    400036: Ring_JNT2
-    400038: Ring_JNT3
-    400040: Thumb_JNT1
-    400042: Thumb_JNT2
-    400044: Thumb_JNT3
-    400046: Wrist1
-    2100000: LearningApp_Rig_MASTER_01a_noSet_lambert2
-    2100002: lambert1
-    2300000: Cube_Template
-    3300000: Cube_Template
-    4300000: Mesh
-    4300002: Cube_Template
-    7400000: LearningApp_Rig_Poke_09
+    100000: //RootNode
+    100002: MainR_JNT
+    100004: MeshR
+    100006: MiddelR_JNT2
+    100008: MiddleR_JNT
+    100010: MiddleR_JNT1
+    100012: MiddleR_JNT3
+    100014: PinkyR_JNT
+    100016: PinkyR_JNT1
+    100018: PinkyR_JNT2
+    100020: PinkyR_JNT3
+    100022: PointR_JNT
+    100024: PointR_JNT1
+    100026: PointR_JNT2
+    100028: PointR_JNT3
+    100030: RingR_JNT
+    100032: RingR_JNT1
+    100034: RingR_JNT2
+    100036: RingR_JNT3
+    100038: ThumbR_JNT1
+    100040: ThumbR_JNT2
+    100042: ThumbR_JNT3
+    100044: WristR_JNT
+    400000: //RootNode
+    400002: MainR_JNT
+    400004: MeshR
+    400006: MiddelR_JNT2
+    400008: MiddleR_JNT
+    400010: MiddleR_JNT1
+    400012: MiddleR_JNT3
+    400014: PinkyR_JNT
+    400016: PinkyR_JNT1
+    400018: PinkyR_JNT2
+    400020: PinkyR_JNT3
+    400022: PointR_JNT
+    400024: PointR_JNT1
+    400026: PointR_JNT2
+    400028: PointR_JNT3
+    400030: RingR_JNT
+    400032: RingR_JNT1
+    400034: RingR_JNT2
+    400036: RingR_JNT3
+    400038: ThumbR_JNT1
+    400040: ThumbR_JNT2
+    400042: ThumbR_JNT3
+    400044: WristR_JNT
+    2100000: lambert2
+    4300000: MeshR
     9500000: //RootNode
-    13700000: Mesh
+    13700000: MeshR
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: LearningApp_Rig_MASTER_01a_noSet_lambert2
-    second: {fileID: 2100000, guid: ac6cdef968e49e84f9c34a9978afcdcd, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
+      name: lambert2
     second: {fileID: 2100000, guid: ac6cdef968e49e84f9c34a9978afcdcd, type: 2}
   materials:
     importMaterials: 1
